@@ -999,17 +999,21 @@
   width: fit-content;
 }
 
+
+
 .home-propousal-4-1 .menu {
   height: 28px;
   min-width: 46px;
   position: relative;
 }
 
+
 .home-propousal-4-1 .link-3 {
   align-items: flex-start;
   display: flex;
   min-width: 46px;
 }
+
 
 .home-propousal-4-1 .content-4 {
   align-items: flex-start;
@@ -1028,6 +1032,8 @@
 .home-propousal-4-1 .menu-1 {
   min-width: 50px;
 }
+
+
 
 .home-propousal-4-1 .link-4 {
   align-items: flex-start;
